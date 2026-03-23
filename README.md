@@ -10,6 +10,8 @@ Despite growing cybersecurity measures and increasing user awareness, attackers 
 
 ## [Bachelor Thesis: Development of a Library for Automatic Pseudonymization](BA_Thesis_Pseudonymization.pdf)
 
+[Check out the implementation](https://github.com/oleksapopovych/pseudPy)
+
 Data pseudonymization has gradually become an essential part of data protection for all relevant parties that store, process, and use personal data. The measures are taken not only from the moral perspective of protecting user or customer data but also from the legal perspective of the General Data Protection Regulation. Although there are many anonymization and pseudonymization options available, the goal of the automated pseudonymization library was to create a general tool that is free of charge, allows reversible de-identification of data, is relatively easy to configure, and does not require the involvement of third parties in data processing.
 
 This thesis describes the implementation of the pseudonymization library, discusses the literature research on current pseudonymization practices, outlines the technologies used for the development, and provides test results on the library’s performance and functionalities. In addition, a graphical user interface is presented as an exemplary use case for a library and a simplified way to achieve pseudonymization for users without prior programming knowledge.
