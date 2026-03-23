@@ -4,7 +4,7 @@ This repository contains a collection of my scientific papers, seminar works, an
 
 The goal of this repository is to document my academic exploration of complex engineering topics and to present structured research combined with practical technical insights.
 
-## [Seminar Paper: Man-in-the-Middle Attack on HTTPS: TLS Proxying with Forged Certificates](papers/BA_Thesis_Pseudonymization.pdf)
+## [Seminar Paper: Man-in-the-Middle Attack on HTTPS: TLS Proxying with Forged Certificates](papers/Man-in-the-Middle_Attack_on_HTTPS.pdf)
 
 [Check out the poster](papers/MITM_Poster.pdf)
 
